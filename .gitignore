@@ -1,0 +1,14 @@
+# Node.js
+node_modules
+.next
+out
+build
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env*.local
